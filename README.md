@@ -12,6 +12,9 @@ Base codes are provided by [Prof. Sooyoung Lee](https://eie.seoultech.ac.kr/intr
 ![Coordinate](pic/coordinate.png) |![DH](pic/DH_param.png)
 --- | --- | 
 
+**OpenGL Modeling**  
+![Coordinate](pic/OpenGL_model.png)
+
 ## Key description
 I made 5 kinds function in this simulation
 
@@ -33,3 +36,11 @@ I made 5 kinds function in this simulation
 
 **Mode 5** : Move and rotate the end effector to the inputted coordinate
 - P : Receive input for X, Y, Z, $\vec a$, $\vec o$ and $\vec n$
+
+## Simulation
+- Mode1
+  ![Mode1](pic/Mode1/gif)
+- Mode2
+  ![Mode2](pic/Mode2/gif)
+- Mode5
+  ![Mode5](pic/Mode5/gif)
