@@ -39,8 +39,8 @@ I made 5 kinds function in this simulation
 
 ## Simulation
 - Mode1
-  ![Mode1](pic/Mode1/gif)
+  ![Mode1](pic/Mode1.gif)
 - Mode2
-  ![Mode2](pic/Mode2/gif)
+  ![Mode2](pic/Mode2.gif)
 - Mode5
-  ![Mode5](pic/Mode5/gif)
+  ![Mode5](pic/Mode5.gif)
