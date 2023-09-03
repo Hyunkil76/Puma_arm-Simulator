@@ -3,6 +3,12 @@ This is a term project for the **'Robot Engineering'** course at the Seoul Natio
 
 Base codes are provided by [Prof. Sooyoung Lee](https://eie.seoultech.ac.kr/intro/prof/?togo=list&menu=1143&profidx=02365)
 
+I set up and analyzed the robot's coordinate axes according to the **Denavit-Hartenberg Representation (D-H Notation)**
+
+To solve inverse kinematics, I use **Pieper's approach** 
+- First three joints : Algebraic approach
+- Last three joints : Geometric approach
+
 ## Work Condition
 - VS 2019
 - Reference model : [**PUMA 500 Robot Arm**](http://rutherford-robotics.com/PUMA/)
